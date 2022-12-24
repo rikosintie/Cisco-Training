@@ -2,7 +2,7 @@
 
 **<a href="#Nexus Dashboard 2.2">Nexus Dashboard 2.2</a>**  
 **<a href="#Cisco Prime Infrastructure to Cisco DNA Center Migration">Cisco Prime Infrastructure to Cisco DNA Center Migration</a>**  
-**<a href="#Full-Stack-Observability-(FSO)-Hands-on-Lab">Full Stack Observability (FSO) Hands-on Lab</a>**  
+**<a href="#Full-Stack-Observability-Hands-on-Lab">Full Stack Observability (FSO) Hands-on Lab</a>**  
 **<a href="#Cisco Developer Relations Decmeber 2022 Newsletter">Cisco Developer Relations Decmeber 2022 Newsletter</a>** 
 
 
@@ -61,7 +61,7 @@ Expertise: Fundamental session for beginners.
 * [Enterprise Networking SRE Snapshot on Partner Communities](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcommunity.cisco.com%2Ft5%2Fnetwork-architecture-knowledge%2Fenterprise-networking-amp-security-solutions-readiness-engineers%2Fta-p%2F3612766&data=05%7C01%7Cmhubbard%40vectorusa.com%7Cf0b7a018ed6f496d4c4a08dad6f9bb55%7C2a362dd8a9894573b06cb9515bfe5448%7C1%7C0%7C638058665342901051%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=FHCbVEja55awRBrPBaviNeRIlk8GlNouNiD97yTYY0w%3D&reserved=0)  
  
 
-## <a name="Full-Stack-Observability-(FSO)-Hands-on-Lab">Full Stack Observability (FSO) Hands-on Lab</a>
+## <a name="Full-Stack-Observability-Hands-on-Lab">Full Stack Observability (FSO) Hands-on Lab</a>
 
 **AppDynamics, Thousand Eyes, Intersight**
  
