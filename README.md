@@ -2,7 +2,7 @@
 
 **<a href="#Nexus Dashboard 2.2">Nexus Dashboard 2.2</a>**  
 **<a href="#Cisco Prime Infrastructure to Cisco DNA Center Migration">Cisco Prime Infrastructure to Cisco DNA Center Migration</a>**  
-**<a href="#FSO-Hands-on-Lab">Full Stack Observability (FSO) Hands-on Lab</a>**  
+**<a href="#Full-Stack-Observability-(FSO)-Hands-on-Lab">Full Stack Observability (FSO) Hands-on Lab</a>**  
 **<a href="#Cisco Developer Relations Decmeber 2022 Newsletter">Cisco Developer Relations Decmeber 2022 Newsletter</a>** 
 
 
