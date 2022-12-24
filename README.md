@@ -6,7 +6,6 @@
 **<a href="#Cisco Developer Relations Decmeber 2022 Newsletter">Cisco Developer Relations Decmeber 2022 Newsletter</a>** 
 
 
-
 **Webex Online Event for Partners**
 ## <a name="Nexus Dashboard 2.2">Nexus Dashboard 2.2 & Nexus Insights 6.1 Hands-on Lab</a>
 
