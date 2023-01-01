@@ -1,7 +1,7 @@
 ## Online Cisco Training for Partners
 
 <a href="#Nexus Dashboard 2.2">Nexus Dashboard 2.2</a>  
-[Nexus Dashboard 2.2](Nexus Dashboard 2.2) 
+[Nexus Dashboard 2.2](#Nexus Dashboard 2.2)  
 <a href="#Cisco Prime Infrastructure to Cisco DNA Center Migration">Cisco Prime Infrastructure to Cisco DNA Center Migration</a>  
 <a href="#FSO-Hands-on-Lab">Full Stack Observability (FSO) Hands-on Lab</a>  
 <a href="#Cisco-Developer-Relations-December-2022-Newsletter">Cisco-Developer-Relations-December-2022-Newsletter</a>  
@@ -9,7 +9,7 @@
 
 
 **Webex Online Event for Partners**
-## <a name="Nexus Dashboard 2.2">Nexus Dashboard 2.2 & Nexus Insights 6.1 Hands-on Lab</a>
+## <a name="Nexus Dashboard 2.2"></a>Nexus Dashboard 2.2 & Nexus Insights 6.1 Hands-on Lab
 
 ### Topics:
 * Nexus Dashboard 2.2 Fundamentals
