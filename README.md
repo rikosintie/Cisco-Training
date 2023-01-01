@@ -27,7 +27,7 @@ Important Links
 
 </br>
 
-## <a name="Cisco Prime Infrastructure to Cisco DNA Center Migration">Cisco Prime Infrastructure to Cisco DNA Center Migration</a>
+## Cisco Prime Infrastructure to Cisco DNA Center Migration
 
 **Webex Webinars Event for Partners**  
  
