@@ -27,8 +27,7 @@ Important Links
 
 ## <a name="Cisco Prime Infrastructure to Cisco DNA Center Migration">Cisco Prime Infrastructure to Cisco DNA Center Migration</a>
 
-**Webex Webinars Event for Partners**  
- 
+**Webex Webinars Event for Partners**   
 
 Presented by
 The Americas Partner Organization
