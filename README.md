@@ -3,7 +3,7 @@
 <a href="#Nexus Dashboard 2.2">Nexus Dashboard 2.2</a>  
 <a href="#Cisco Prime Infrastructure to Cisco DNA Center Migration">Cisco Prime Infrastructure to Cisco DNA Center Migration</a>  
 <a href="#FSO-Hands-on-Lab">Full Stack Observability (FSO) Hands-on Lab</a>  
-<a href="#Cisco-Developer-Relations-Decmeber-2022-Newsletter">Cisco Developer Relations Decmeber 2022 Newsletter</a>  
+<a href="#Cisco-Developer-Relations-December-2022-Newsletter">Cisco-Developer-Relations-December-2022-Newsletter</a>  
 
 
 
@@ -75,7 +75,7 @@ The trainer will be available for the FIRST hour of the Hands-on Lab sessions to
 More Information & Registration:  https://xpert.cisco.com/register/TC-008673#info
 
 
-## <a name="Cisco-Developer-Relations-Decmeber-2022-Newsletter">Cisco Developer Relations Decmeber 2022 Newsletter</a>
+## <a name="Cisco-Developer-Relations-December-2022-Newsletter">Cisco Developer Relations Decmeber 2022 Newsletter</a>
  
 
 ### Developer News  
