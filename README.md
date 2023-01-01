@@ -8,7 +8,7 @@
 
 
 **Webex Online Event for Partners**
-<a name="#Nexus Dashboard 2.2"></a>
+<a name="#Nexus Dashboard 2.2"></a>  
 ## Nexus Dashboard 2.2 & Nexus Insights 6.1 Hands-on Lab
 
 ### Topics:
