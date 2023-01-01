@@ -1,6 +1,6 @@
 ## Online Cisco Training for Partners  
 
-[Nexus Dashboard 2.2](#nexus-dashboard-22)  
+[Nexus Dashboard 2.2](#nexus-dashboard)  
 <a href="#Nexus Dashboard 2.2">Nexus Dashboard 2.2</a>   
 <a href="#Cisco Prime Infrastructure to Cisco DNA Center Migration">Cisco Prime Infrastructure to Cisco DNA Center Migration</a>  
 <a href="#FSO-Hands-on-Lab">Full Stack Observability (FSO) Hands-on Lab</a>  
