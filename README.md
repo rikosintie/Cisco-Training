@@ -2,8 +2,8 @@
 
 [Nexus Dashboard 2.2](#nexus-dashboard)   
 [Cisco Prime Infrastructure to Cisco DNA Center Migration](#cisco-prime-infrastructure-to-cisco-dna-center-migration)  
-[Full Stack Observability (FSO) Hands-on Lab](#full-stack-observability-(FSO)-hands-on-lab)
-<a href="#Cisco-Developer-Relations-December-2022-Newsletter">Cisco-Developer-Relations-December-2022-Newsletter</a>  
+[Full Stack Observability (FSO) Hands-on Lab](#full-stack-observability-fso-hands-on-lab)  
+[Cisco Developer Relations December 2022 Newsletter](#Cisco-Developer-Relations-December-2022-Newsletter)
 
 
 
